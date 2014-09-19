@@ -1,4 +1,4 @@
 <?php 
-$nam="John";
+$name="John";
 echo("hello ".$name); 
 ?>
